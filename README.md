@@ -1,1 +1,1 @@
-# minds-up-kubernetes
+# IA Trends Minds Up - Kubernetes
