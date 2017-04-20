@@ -30,5 +30,5 @@ spec:
           configMap:
             name: "nginx-proxy-conf"
             items:
-              - key: "frontend.conf"
-                path: "frontend.conf"
+              - key: "proxy.conf"
+                path: "proxy.conf"
